@@ -13,11 +13,13 @@
         <input type="submit"/>
     </form>--%>
 
-    <form action="addAnime">
+    <form action="addAnime" method="post">
         Enter anime id: <input type="text" name="id"/> <br>
         Enter anime name: <input type="text" name="name"/> <br>
         <input type="submit"/>
     </form>
+
+
 
 </body>
 </html>
